@@ -52,4 +52,12 @@ Pour l'architecture de sitemaps d'envergure conformes aux exigences Protocole Si
 
 ***
 
+## Liens Utiles
+
+* **Portail Entreprise:** https://ag.tavardt.com/fr/
+* **Suite de Diagnostic:** https://tools.tavardt.com/fr/
+* **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
 © 2026 TAVARDT. Tous droits réservés.
