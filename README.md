@@ -1,4 +1,4 @@
-# Validateur de Sitemap XML et Index d'URLs | TAVARDT France
+# Validateur de Sitemap XML et Index d'URLs
 
 [![Validateur Sitemap](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-sitemap-xml/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Pour auditer vos sitemaps complexes en environnement de production:
 ## Conseil en Indexation et SEO Technique
 
 Pour l'architecture de sitemaps d'envergure conformes aux exigences Protocole Sitemaps.org et Standards W3C, contactez **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
