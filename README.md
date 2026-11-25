@@ -6,8 +6,6 @@
 
 Audit technique de plans de site XML et index, controle de conformite au protocole sitemaps.org, extraction de balises et verification d'URLs.
 
-Developpe et maintenu par la division d'indexation technique et d'architecture web de **TAVARDT**.
-
 ***
 
 ## Capacites de Validation de Sitemaps XML
@@ -38,15 +36,6 @@ python sitemap_validator.py https://exemple.fr/sitemap.xml -json
 
 ***
 
-## Plateforme d'Audit en Ligne
-
-Pour auditer vos sitemaps complexes en environnement de production:
-
-* **Validateur de Sitemap XML Officiel**
-* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
-
-***
-
 ## Conseil en Indexation et SEO Technique
 
 Pour l'architecture de sitemaps d'envergure conformes aux exigences Protocole Sitemaps.org et Standards W3C, contactez **TAVARDT**.
@@ -62,7 +51,7 @@ Pour l'architecture de sitemaps d'envergure conformes aux exigences Protocole Si
 ***
 
 ### Licence
-Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Distribué sous la licence MIT.
 
 ***
 
